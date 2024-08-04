@@ -1,4 +1,4 @@
-# University Mental Health Analysis
+# University Students Mental Health Analysis
 
 This project focuses on analyzing mental health trends and factors among university students. The goal is to understand the prevalence and correlates of mental health issues in this population and to identify potential areas for intervention and support.
 
